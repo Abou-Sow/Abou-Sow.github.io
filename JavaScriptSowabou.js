@@ -1,0 +1,1 @@
+alert("Bonjour, cest Sow Abou,vous êtes sur ma 1ère page web, donc faites pas trop attention aux erreurs!!! \nVos suggestions par contre seront les bienvenues!! Merci et bon visionnage")
